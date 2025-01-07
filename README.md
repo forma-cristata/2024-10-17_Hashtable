@@ -9,14 +9,14 @@ A modern C++ implementation of a HashTable data structure with template support 
 - Standard array of vectors implementation for efficient collision handling
 - Full operator overloading support
 
-### Core Functionality
+### Functionality
 
 - Add and remove key-value pairs
 - Clear entire hash table
 - Check for key existence
 - String representation for easy debugging
 
-### Technical Details
+### Details
 
 Built using modern C++ features including std::vector and std::tuple. Implements proper memory management to prevent leaks. 
 
